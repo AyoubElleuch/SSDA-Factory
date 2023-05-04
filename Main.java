@@ -1,5 +1,5 @@
-// Sample client code that uses the CarFactory interface to create car objects
-public class Client {
+// Sample Main code that uses the CarFactory interface to create car objects
+public class Main {
     public static void main(String[] args) {
         CarFactory carFactory = new CarFactory();
 
